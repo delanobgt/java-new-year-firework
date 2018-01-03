@@ -3,19 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.delanobgt</groupId>
     <artifactId>NewYearFirework</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <packaging>jar</packaging>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
-    <dependencies>
-        <!-- https://mvnrepository.com/artifact/org.apache.commons/commons-build-plugin -->
-        <dependency>
-            <groupId>org.apache.commons</groupId>
-            <artifactId>commons-build-plugin</artifactId>
-            <version>1.7</version>
-        </dependency>
-    </dependencies>
 </project>
